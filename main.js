@@ -9,6 +9,9 @@ function main () {
   equipReRollButton();
 }
 
+//just like def. Fuction name, then an argument to pass to a block of code.
+//one major difference between python and js is whitespace is nearly meaningless here.
+//you can add or remove whitespace to your heart's content to make it pretty 
 function pingConsole(aString) {
   console.log(aString);
 }
