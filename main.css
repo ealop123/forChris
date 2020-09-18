@@ -1,0 +1,26 @@
+/* This edits the body html tag  */
+body {
+  /* And this changes the background color  */
+  background-color: #F0F0F0;
+}
+
+div {
+  margin: 1em;
+}
+
+.skillContainer {
+  display: inline-block;
+  border: 1px solid black;
+  padding: .5em;
+  user-select: none;
+}
+
+.reRollButton {
+  margin-left: 1em;
+}
+
+.reRollButton:hover {
+  border: 2px solid blue;
+  cursor: pointer;
+  background-color: lightblue;
+}
